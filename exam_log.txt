@@ -1,0 +1,69 @@
+    1  mkdir linux_practice
+    2  mv linux_practice
+    3  mv --help
+    4  mv linux_practice to DIRECTORY
+    5  mv to linux_practice
+    6  mv linux_practice
+    7  mv /linux_practice
+    8  mv linux_practice/
+    9  mv /linux_practice /
+   10  mv linux_practice/
+   11  mv linux_practice notes.txt/
+   12  touch notes.txt
+   13  ls
+   14  ls >>
+   15  ls>>
+   16  echo "Hello, Linux!" >> notes.txt
+   17  cat notes.txt
+   18  ls
+   19  touch notes.txt
+   20  ls
+   21  cat notes.txt
+   22  head notes.txt
+   23  clr
+   24  mv --help
+   25  mv notes.txt linux_practice
+   26  ls 
+   27  touch notes.txt
+   28  ls
+   29  cat notes.txt
+   30  echo "Hello,Linux" >> notes.txt
+   31  echo "This is a practical exam." >>notes.txt
+   32  head notes.txt
+   33  tail notes.exam
+   34  tail notes.txt
+   35  mkdir linux_practice/subdir
+   36  mv notes.txt subdir
+   37  RENAME subdir practice_subdir
+   38  rn subdir practice_subdir
+   39  mv subdir practice_subdir
+   40  cp notes.txt linux_practice
+   41  cp notes.txt/linux_practice
+   42  cp notes.txt/linux_practice/
+   43  cp --help
+   44  cp linux_practice /notes.txt/
+   45  notes.txt /linux_practice/
+   46  cp notes.txt
+   47  cp notes.txt /
+   48  notes.txt /linux_practice
+   49  cp notes.txt /linux_practice
+   50  cp linux_practice /notes.txt/
+   51  cp linux_practice /
+   52  date
+   53  time
+   54  disk
+   55  ssh -V
+   56  php -v
+   57  mysql --version
+   58  mariadb --version
+   59  apachectl --v
+   60  apachectl -v
+   61  python --version
+   62  java -v
+   63  java --v
+   64  java --VERSION
+   65  java --version
+   66  gh repo clone https://github.com/NajibYousef/227144793_Yousef.git
+   67  cd 227144793_Yousef
+   68  git checkout -b finalexam
+   69  history > exam_log.txt
